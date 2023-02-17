@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DataTablefromAPI/static/css/main.f299c95f.css",
+    "main.js": "/DataTablefromAPI/static/js/main.53148d62.js",
+    "static/js/787.2c660233.chunk.js": "/DataTablefromAPI/static/js/787.2c660233.chunk.js",
+    "index.html": "/DataTablefromAPI/index.html",
+    "main.f299c95f.css.map": "/DataTablefromAPI/static/css/main.f299c95f.css.map",
+    "main.53148d62.js.map": "/DataTablefromAPI/static/js/main.53148d62.js.map",
+    "787.2c660233.chunk.js.map": "/DataTablefromAPI/static/js/787.2c660233.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f299c95f.css",
+    "static/js/main.53148d62.js"
+  ]
+}
